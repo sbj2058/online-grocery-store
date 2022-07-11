@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif !important;
+    
+}
+.main-header{
+    /* font-family: 'Poppins', sans-serif !important; */
+    color: black;
+}
+.login-button{
+    border-radius: 20px;
+    height: 40px;
+}
+.back-img{
+    background-image: url(../img/main.jpg);
+    width: 100%;
+    height: 450px;
+    background-repeat: no-repeat;
+    color: white;
+    
+
+}
+
+.image{
+    width: 100%;
+    overflow: hidden;
+}
+
+.home-button{
+    color: white;
+    
+}
+
+.slide-image{
+    height: 350px;
+
+}
+
+.footer-btn{
+    background-color: rgb(60, 99, 172);
+    height: 30px;
+    width: 70px;
+    border-radius: 0px 15px 15px 0px;
+}
+
+.footer-btn a{
+    color: white;
+}
+
+.middle-footer{
+    text-decoration: none;
+}
+
+/* product  */
+.product-base{
+    /* height: 290px;
+    width: 280px; */
+}
+
+.card-content{
+    font-size: small;
+    
+}
